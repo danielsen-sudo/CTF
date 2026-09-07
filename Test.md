@@ -11,3 +11,5 @@ Så er vi tilbake til en normal tekst..
 - Punkt 1
 - [X] Ferdig
 - [ ] Ikke ferdig
+
+git test fra Zed
