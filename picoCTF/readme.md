@@ -8,6 +8,8 @@ Målet er ikke bare å lagre flaggene, men å dokumentere hvordan oppgavene ble 
 
 ### picoCTF
 
+#### Ferdig
+
 - [General Skills in CTF's](./picoCTF/General-Skills-in-CTFs/)
 
 Flere kategorier og CTF-er kommer etter hvert.
@@ -19,6 +21,8 @@ CTF/
 ├── README.md
 └── picoCTF/
     └── General Skills in CTFs/
+        ├── 01 - General Skills I.md
+        └── 02 - General Skills II.md
 ```
 
 Strukturen får utvikle seg etter hvert som samlingen vokser.
